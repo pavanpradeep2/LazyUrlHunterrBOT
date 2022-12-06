@@ -51,7 +51,7 @@ Don't be sad ! Your all urls are in safe Hand.
 
 »»» <b>Happy Hunting</b> «««
 
-🔺Thank You <a href='https://t.me/LazyDeveloper'>LazyDeveloper</a>🔺 </b>
+🔺Thank You <a href='https://t.me/roiderff'>pavanDeveloper</a>🔺 </b>
 """
 
 
